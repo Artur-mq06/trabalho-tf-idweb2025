@@ -1,0 +1,44 @@
+.logo-rodape {
+    max-width: 130px;
+    height: auto;
+}
+.logo-cabecalho {
+    width: 250px;
+}
+.nav-link {
+    color: #ffffff;
+    font-weight: 600;
+}
+.nav-link:hover {
+    color: #E5973A;
+}
+header {
+    background-color: #4A413B;
+}
+.cor-verde {
+    color: #38503E;
+}
+.cor-mostarda {
+    color: #E5973A;
+}
+.cor-marrom {
+    color: #4A413B;
+}
+.cor-branca {
+    color: #ffffff;
+}
+footer {
+    background-color: #4A413B;
+}
+.imagens {
+    height: 250px;
+    object-fit: cover;
+    width: 100%;
+}
+.link-cor:hover {
+    color: #38503E;
+}
+.link-cor {
+    text-decoration: none;
+    font-weight: 500;
+}
